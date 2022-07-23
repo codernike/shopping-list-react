@@ -13,3 +13,6 @@
 p{
     font-family: cursive;
 }
+input{
+    border: rgb(1, 217, 255) 3px solid;
+}
